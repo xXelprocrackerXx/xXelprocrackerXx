@@ -37,7 +37,7 @@
           "agent_id": "5a69fe7b-2b9d-4459-aec9-05c5cb02c01c",
           "agent_name": "apocosi",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 61032
         },
         "type": "agent"
       },
